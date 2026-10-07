@@ -1,0 +1,22 @@
+# Entorno virtual de Python
+.venv/
+
+# Cache de Python
+__pycache__/
+*.py[cod]
+
+# Datos biométricos y datasets
+datos/*.csv
+datos/*.npy
+datos/*.npz
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Configuración local de VS Code
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
